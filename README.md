@@ -1,1 +1,5 @@
 # iso-build
+
+```
+./guide -i
+```
