@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         GuideOS Cinnamon
     shortProductName:    GuideOS
-    version:             12.231120
-    shortVersion:        12
-    versionedName:       GuideOS 12.231120 Cinnamon
-    shortVersionedName:  GuideOS 12 Cinnamon
+    version:             0.9-1
+    shortVersion:        0.9
+    versionedName:       GuideOS 0.9-1 Cinnamon
+    shortVersionedName:  GuideOS 0.9 Cinnamon
     bootloaderEntryName: Debian (GuideOS Cinnamon)
     productUrl:          https://spirallinux.github.io
     supportUrl:          https://github.com/GuideOS/GuideOS-project/discussions
