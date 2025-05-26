@@ -1,4 +1,4 @@
 # Needed for VirtualBox in Debian Stable
-deb https://fasttrack.debian.net/debian-fasttrack/ trixie-fasttrack main contrib non-free  #Trixie Fast Track (for VirtualBox)
-deb https://fasttrack.debian.net/debian-fasttrack/ trixie-backports-staging main contrib non-free  #Trixie Fast Track (for VirtualBox)
+# deb https://fasttrack.debian.net/debian-fasttrack/ trixie-fasttrack main contrib non-free  #Trixie Fast Track (for VirtualBox)
+# deb https://fasttrack.debian.net/debian-fasttrack/ trixie-backports-staging main contrib non-free  #Trixie Fast Track (for VirtualBox)
 
