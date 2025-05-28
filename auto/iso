@@ -20,12 +20,12 @@ lb config noauto \
 --debconf-frontend noninteractive \
 --debian-installer none \
 --debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
---distribution trixie \
+--distribution bookworm \
 --firmware-binary true \
 --firmware-chroot true \
 --initramfs live-boot \
---iso-publisher GuideOS \
---iso-volume GuideOS_Cinnamon \
+--iso-publisher SpiralLinux \
+--iso-volume SpiralLinux_Cinnamon \
 --linux-packages "linux-image linux-headers" \
 --bootappend-live "boot=live config quiet loglevel=0 splash threadirqs" \
 --memtest memtest86+x64 \

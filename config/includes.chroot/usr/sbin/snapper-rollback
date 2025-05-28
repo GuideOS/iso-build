@@ -6,7 +6,7 @@ Script to rollback to snapper snapshot using the layout proposed in the snapper
 archwiki page
 https://wiki.archlinux.org/index.php/Snapper#Suggested_filesystem_layout
 
-#GuideOS modified: 2022-05-12 for automatic /dev/XXX root subvolume detection
+#SpiralLinux modified: 2022-05-12 for automatic /dev/XXX root subvolume detection
 """
 
 from datetime import datetime
@@ -139,7 +139,7 @@ def main():
     )
     
 
-    # GuideOS mod, thanks to https://github.com/theduckchannel/xerolinux-rollback-git/blob/main/xerolinux-rollback
+    # SpiralLinux mod, thanks to https://github.com/theduckchannel/xerolinux-rollback-git/blob/main/xerolinux-rollback
     partitions = psutil.disk_partitions()
     retValue = None
     for partition in partitions:

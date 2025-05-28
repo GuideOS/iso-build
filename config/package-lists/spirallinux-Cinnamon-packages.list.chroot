@@ -24,8 +24,8 @@ bash-completion
 bc
 bluetooth
 bridge-utils
-#broadcom-sta-common
-#broadcom-sta-dkms
+broadcom-sta-common
+broadcom-sta-dkms
 btrfs-progs
 cabextract
 calamares
@@ -33,7 +33,7 @@ calamares-settings-debian
 systemd-timesyncd
 console-setup
 cpio
-#cpufrequtils
+cpufrequtils
 
 cryptsetup
 cryptsetup-initramfs
@@ -76,7 +76,7 @@ gdebi
 
 gnupg
 gnupg2
-#grub-customizer
+grub-customizer
 grub-common
 grub2-common
 grub-pc-bin
@@ -272,7 +272,7 @@ grub-efi-ia32-signed:i386
 grub-efi-ia32-signed-template:i386
 alsa-ucm-conf
 zstd
-## Trixie added:
+## Bookworm added:
 dbus-user-session
 inotify-tools
 gawk
@@ -291,8 +291,8 @@ hyperv-daemons
 
 ### Login manager ###
 lightdm
-#lightdm-gtk-greeter
-#lightdm-gtk-greeter-settings
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 
 
 ### Desktop environment ###
@@ -326,11 +326,11 @@ blueman
 gnome-keyring
 gnome-nettool
 gnome-system-tools
-#gparted
+gparted
 network-manager-gnome
 network-manager-openvpn-gnome
-#pavucontrol
-#software-properties-gtk
+pavucontrol
+software-properties-gtk
 ssh-askpass-gnome
 synaptic
 system-config-printer
@@ -338,17 +338,17 @@ system-config-printer-udev
 
 
 ### Accessories ###
-#pluma
-#pluma-plugins
-#pluma-plugin-wordcompletion
-#pluma-plugin-terminal
-#pluma-plugin-sourcecodebrowser
-#pluma-plugin-smartspaces
-#pluma-plugin-quickhighlight
-#pluma-plugin-codecomment
-#pluma-plugin-bracketcompletion
-#pluma-plugin-bookmarks
-#dconf-editor
+pluma
+pluma-plugins
+pluma-plugin-wordcompletion
+pluma-plugin-terminal
+pluma-plugin-sourcecodebrowser
+pluma-plugin-smartspaces
+pluma-plugin-quickhighlight
+pluma-plugin-codecomment
+pluma-plugin-bracketcompletion
+pluma-plugin-bookmarks
+dconf-editor
 evince
 poppler-utils
 file-roller
@@ -362,12 +362,12 @@ gnome-screenshot
 gnome-system-monitor
 gnome-terminal
 simple-scan
-#parcellite
+parcellite
 catfish
 
 
 ### Audio/Video ###
-#clementine
+clementine
 libqt5sql5-sqlite
 vlc
 vlc-plugin-base
@@ -382,18 +382,18 @@ vlc-plugin-visualization
 
 
 ### Graphics ###
-#drawing
-#eom
-#shotwell
+drawing
+eom
+shotwell
 
 ### Internet ###
-#firefox-esr
+firefox-esr
 libpurple-bin
-#pidgin
-#pidgin-extprefs
-#pidgin-gnome-keyring
-#pidgin-otr
-#pidgin-plugin-pack
+pidgin
+pidgin-extprefs
+pidgin-gnome-keyring
+pidgin-otr
+pidgin-plugin-pack
 purple-discord
 purple-lurch
 purple-rocketchat
@@ -401,8 +401,8 @@ purple-xmpp-carbons
 purple-xmpp-http-upload
 
 thunderbird
-#transmission-cli
-#transmission-gtk
+transmission-cli
+transmission-gtk
 
 
 ### Office ####
@@ -416,34 +416,4 @@ ooo-thumbnailer
 libwmf-bin
 
 
-### GuideOS ###
-b43-fwcutter
-firmware-b43-installer
-firmware-b43legacy-installer
-broadcom-sta-dkms
-linux-firmware
-build-essential dkms
-firmware-misc-nonfree
-locales-all
-task-german
-task-german-desktop
-console-setup
-wavpack
-vorbis-tools
-tlp-rdw
-kid3-cli
-samba
-preload
-ntp
-usb-creator-gtk
-papirus-icon-theme
-lightdm-settings
-fonts-liberation
-lz4
-gufw
-redshift
-numlockx
-slick-greeter
-fonts-noto-color-emoji
-fonts-font-awesome
-#grub-efi
+

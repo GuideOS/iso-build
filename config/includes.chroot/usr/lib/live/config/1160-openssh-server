@@ -38,7 +38,7 @@ Config ()
 		fi
 	done
 
-### GuideOS disabled (keep vanilla Debian default)
+### SpiralLinux disabled (keep vanilla Debian default)
 ###	sed -i -e 's|#\(PasswordAuthentication\) yes|\1 no|' /etc/ssh/sshd_config
 
 	case "${_SSH}" in

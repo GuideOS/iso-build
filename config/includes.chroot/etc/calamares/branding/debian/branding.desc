@@ -7,22 +7,22 @@ windowSize: 800px,520px
 windowPlacement: center
 
 strings:
-    productName:         GuideOS Cinnamon
-    shortProductName:    GuideOS
-    version:             0.9-1
-    shortVersion:        0.9
-    versionedName:       GuideOS 0.9-1 Cinnamon
-    shortVersionedName:  GuideOS 0.9 Cinnamon
-    bootloaderEntryName: Debian (GuideOS Cinnamon)
+    productName:         SpiralLinux Cinnamon
+    shortProductName:    SpiralLinux
+    version:             12.231120
+    shortVersion:        12
+    versionedName:       SpiralLinux 12.231120 Cinnamon
+    shortVersionedName:  SpiralLinux 12 Cinnamon
+    bootloaderEntryName: Debian (SpiralLinux Cinnamon)
     productUrl:          https://spirallinux.github.io
-    supportUrl:          https://github.com/GuideOS/GuideOS-project/discussions
-    knownIssuesUrl:      https://github.com/GuideOS/GuideOS-project/issues
-    releaseNotesUrl:     https://github.com/GuideOS/GuideOS-project/releases
+    supportUrl:          https://github.com/SpiralLinux/SpiralLinux-project/discussions
+    knownIssuesUrl:      https://github.com/SpiralLinux/SpiralLinux-project/issues
+    releaseNotesUrl:     https://github.com/SpiralLinux/SpiralLinux-project/releases
     donateUrl:           https://spirallinux.github.io
 
 images:
-    productLogo:         "GuideOS-logo.png"
-    productIcon:         "GuideOS-logo.png"
+    productLogo:         "SpiralLinux-logo.png"
+    productIcon:         "SpiralLinux-logo.png"
     productWelcome:      "welcome.png"
     # productWallpaper:  "wallpaper.png"
 

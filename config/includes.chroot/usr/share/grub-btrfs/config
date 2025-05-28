@@ -9,7 +9,7 @@ GRUB_BTRFS_DISABLE="true"
 
 # Name appearing in the Grub menu.
 # Default: "Use distribution information from /etc/os-release."
-GRUB_BTRFS_SUBMENUNAME="GuideOS snapshots"
+GRUB_BTRFS_SUBMENUNAME="SpiralLinux snapshots"
 
 # Custom title.
 # Shows/Hides "date" "snapshot" "type" "description" in the Grub menu, custom order available.

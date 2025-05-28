@@ -19,12 +19,12 @@ lb config noauto \
 --debconf-frontend noninteractive \
 --debian-installer none \
 --debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
---distribution trixie \
+--distribution bookworm \
 --firmware-binary true \
 --firmware-chroot true \
 --initramfs live-boot \
 --linux-packages "linux-image linux-headers" \
---bootappend-live "boot=live config quiet splash hostname=GuideOS" \
+--bootappend-live "boot=live config quiet splash hostname=SpiralLinux" \
 --memtest memtest86+x64 \
 --win32-loader false
 
