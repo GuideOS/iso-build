@@ -5,7 +5,7 @@ acpi
 acpi-support
 acpi-support-base
 alsa-firmware-loaders
-alsa-oss
+#alsa-oss
 alsa-tools
 alsa-utils
 amd64-microcode
@@ -24,8 +24,7 @@ bash-completion
 bc
 bluetooth
 bridge-utils
-#broadcom-sta-common
-#broadcom-sta-dkms
+broadcom-sta-common
 btrfs-progs
 cabextract
 calamares
@@ -48,7 +47,7 @@ dconf-gsettings-backend
 debconf-utils
 debian-archive-keyring
 debian-keyring
-deborphan
+#deborphan
 debsums
 dialog
 dkms
@@ -119,13 +118,13 @@ kpartx
 lame
 less
 libasound2-plugins
-libblockdev-crypto2
+#libblockdev-crypto2
 libfile-mimeinfo-perl
 libgl1-mesa-dri
 libgphoto2-l10n
 libgpod4
 libgpod-common
-libimobiledevice6
+#libimobiledevice6
 libimobiledevice-utils
 libmp3lame0
 libmtp-runtime
@@ -171,7 +170,7 @@ parted
 plymouth
 plymouth-themes
 plymouth-x11
-policykit-1-gnome
+#policykit-1-gnome
 printer-driver-all
 printer-driver-all-enforce
 printer-driver-cups-pdf
@@ -183,7 +182,7 @@ pulseaudio-utils
 pv
 pwgen
 python3-btrfsutil
-qt5-gtk2-platformtheme
+#qt5-gtk2-platformtheme
 qt5-xdgdesktopportal-platformtheme
 rar
 rename
@@ -220,8 +219,8 @@ va-driver-all
 intel-media-va-driver-non-free
 i965-va-driver-shaders
 vbetool
-virtualbox-guest-utils
-virtualbox-guest-x11
+#virtualbox-guest-utils
+#virtualbox-guest-x11
 wget
 whiptail
 wireless-regdb
@@ -249,7 +248,7 @@ xserver-xorg-input-elographics
 xserver-xorg-input-joystick
 xserver-xorg-input-kbd
 xserver-xorg-input-libinput
-xserver-xorg-input-mutouch
+#xserver-xorg-input-mutouch
 xserver-xorg-input-wacom
 xserver-xorg-video-all
 zenity
@@ -264,7 +263,7 @@ spice-vdagent
 xserver-xorg-video-qxl
 libcanberra-pulse
 libcanberra-gtk3-module
-libcanberra-gtk-module
+#libcanberra-gtk-module
 efibootmgr
 shim-signed
 grub-efi-ia32-bin
@@ -394,11 +393,11 @@ libpurple-bin
 #pidgin-gnome-keyring
 #pidgin-otr
 #pidgin-plugin-pack
-purple-discord
-purple-lurch
-purple-rocketchat
-purple-xmpp-carbons
-purple-xmpp-http-upload
+#purple-discord
+#purple-lurch
+#purple-rocketchat
+#purple-xmpp-carbons
+#purple-xmpp-http-upload
 
 thunderbird
 #transmission-cli
@@ -421,7 +420,7 @@ b43-fwcutter
 firmware-b43-installer
 firmware-b43legacy-installer
 broadcom-sta-dkms
-linux-firmware
+#linux-firmware
 build-essential dkms
 firmware-misc-nonfree
 locales-all
@@ -434,8 +433,8 @@ tlp-rdw
 kid3-cli
 samba
 preload
-ntp
-usb-creator-gtk
+#ntp
+#usb-creator-gtk
 papirus-icon-theme
 lightdm-settings
 fonts-liberation
@@ -447,3 +446,4 @@ slick-greeter
 fonts-noto-color-emoji
 fonts-font-awesome
 #grub-efi
+#libimobiledevice

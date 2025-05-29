@@ -3,7 +3,7 @@
 # deb https://fasttrack.debian.net/debian-fasttrack/ trixie-backports-staging main contrib non-free  #Trixie Fast Track Staging
 
 # Debian Stable
-#deb https://deb.debian.org/debian/ stable main contrib non-free non-free-firmware  #Debian Stable (for upgrades)
+#deb https://deb.debian.org/debian/ trixie main contrib non-free non-free-firmware  #Debian Stable (for upgrades)
 
 # Debian Testing
 #deb https://deb.debian.org/debian/ testing main contrib non-free non-free-firmware  #Debian Testing
