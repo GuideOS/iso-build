@@ -258,7 +258,7 @@ haveged
 earlyoom
 python3-psutil
 python3-smbc
-hplip-gui
+#hplip-gui
 spice-vdagent
 xserver-xorg-video-qxl
 libcanberra-pulse
