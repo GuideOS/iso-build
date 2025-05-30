@@ -59,7 +59,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fancontrol
-fasttrack-archive-keyring
+#fasttrack-archive-keyring
 ffmpeg
 firmware-linux-free
 firmware-linux-nonfree
